@@ -17,4 +17,4 @@ default = []
 
 [dependencies]
 anchor-lang = "0.31.1"
-mpl-core = { version = "0.8.1", features = ["cpi"] } 
+mpl-core = { version = "1.0.1", features = ["cpi"] } 
